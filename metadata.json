@@ -1,0 +1,6 @@
+{
+  "name": "VÉLANE Atelier — Architectural Leather Goods",
+  "description": "Handcrafted luxury leather goods, structured designer handbags, and timeless travel essentials. Experience intentional design, vegetable-tanned artisanal craft, and seamless shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
